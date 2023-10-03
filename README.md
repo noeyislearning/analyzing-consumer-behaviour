@@ -2,6 +2,8 @@
 
 This analysis delves into the fascinating world of retail data to unlock valuable insights for businesses. Market Basket Analysis is a powerful technique that allows retailers to understand customer behavior, identify item associations, and offer personalized recommendations.
 
+Dataset: [Market Basket Analysis](Mhttps://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis/data) from Kaggle.
+
 ## Key Steps
 
 ### Data Preprocessing
